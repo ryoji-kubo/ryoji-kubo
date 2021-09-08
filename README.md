@@ -1,5 +1,5 @@
 
-Currently a Student at New York University Abu Dhabi
+Currently a Student at New York University
 
 <!---
 ryoji-kubo/ryoji-kubo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
