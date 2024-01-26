@@ -1,5 +1,7 @@
+Post-graduation Research Fellow at NYU Abu Dhabi.
 
-Currently a Student at New York University
+Current Research Interests:
+Temporal Graphs, Relational Deep Learning, Explainability
 
 <!---
 ryoji-kubo/ryoji-kubo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
