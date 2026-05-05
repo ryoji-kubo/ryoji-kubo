@@ -1,7 +1,7 @@
-Post-graduation Research Fellow at NYU Abu Dhabi.
+PhD student at the National University of Singapore
 
 Current Research Interests:
-Temporal Graphs, Relational Deep Learning, Explainability
+Graph Machine Learing, Explainability, AI for Science
 
 <!---
 ryoji-kubo/ryoji-kubo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
